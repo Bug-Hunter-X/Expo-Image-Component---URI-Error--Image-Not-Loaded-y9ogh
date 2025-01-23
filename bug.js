@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Image` component with a URI that points to an image that either doesn't exist or is inaccessible.  The image might be hosted on a server that is down, or the URI itself may be incorrect. This often manifests as a blank space where the image should be, and sometimes without any clear error message in the console.
